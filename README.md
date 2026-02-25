@@ -1,8 +1,8 @@
 # Thynqit Labs – Foundational Engineering Bootcamp
 
-A structured foundational engineering curriculum curated by Thynqit Labs.
+A structured, comprehensive foundational engineering curriculum curated by Thynqit Labs.
 
-This repository is designed to help software engineers build strong computer science fundamentals and production-grade engineering understanding before working on real-world systems.
+This program is designed to build strong computer science fundamentals and real-world software delivery understanding before working on production-grade systems.
 
 It is suitable for:
 
@@ -15,44 +15,164 @@ It is suitable for:
 
 ---
 
-## 🎯 Objective
+# 🎯 Program Goals
 
-- Build strong computer science foundations
-- Understand real-world development workflows
-- Learn web, API, and backend fundamentals
-- Develop engineering maturity and best practices
-- Prepare for production-grade system development
+By the end of this program, learners will:
 
----
-
-## 📆 Program Structure
-
-The bootcamp is structured in a progressive, day-by-day format.
-
-### Week 1 – Engineering & Web Foundations
-- Day 1: Git Basics
-- Day 2: Git Advanced
-- Day 3: Clean Code & Code Review
-- Day 4: Web Basics
-- Day 5: HTTP & APIs
-
-### Week 2 – Backend & Infrastructure
-- Day 6: Authentication & Authorization
-- Day 7: Database Design
-- Day 8: Testing Fundamentals
-- Day 9: Cloud & DevOps Basics
-- Day 10: System Design Basics
-
-Additional modules include:
-
-- Networking Basics
-- Encryption & Security Fundamentals
-- Performance & Big-O Basics
-- Logging & Monitoring
+- Understand how modern software teams operate
+- Grasp core computer science fundamentals
+- Understand web, backend, and infrastructure basics
+- Learn secure and scalable engineering principles
+- Develop production-ready engineering intuition
 
 ---
 
-## 📚 Learning Format
+# 📆 Program Structure (4 Weeks)
+
+The bootcamp is structured in progressive modules. It is self-paced but designed as a 4-week curriculum.
+
+---
+
+## 🟦 Week 1 – Software Delivery & Collaboration Foundations
+
+### Day 1 – Software Development Lifecycle (SDLC)
+- Waterfall vs Agile
+- Why iterative development matters
+- Product lifecycle overview
+
+### Day 2 – Agile & Scrum Framework
+- Agile Manifesto principles
+- Scrum roles & ceremonies
+- Sprint lifecycle
+
+### Day 3 – User Stories & Project Tracking
+- Writing effective user stories
+- Acceptance criteria
+- Estimation basics
+- Issue tracking tools (e.g., Jira)
+
+### Day 4 – Git Basics
+- What is version control?
+- Repositories & commits
+- Branching fundamentals
+
+### Day 5 – Git Advanced & Code Review
+- Pull requests
+- Merge strategies
+- Branching models (GitFlow vs trunk-based)
+- Code review best practices
+
+---
+
+## 🟩 Week 2 – Web & API Fundamentals
+
+### Day 6 – How the Web Works
+- Client-server architecture
+- DNS basics
+- Browser request lifecycle
+
+### Day 7 – HTTP Deep Dive
+- Methods (GET, POST, PUT, DELETE)
+- Status codes
+- Headers
+- Idempotency
+
+### Day 8 – APIs & REST Principles
+- What is an API?
+- REST constraints
+- Request/response lifecycle
+- API design basics
+
+### Day 9 – Data Formats
+- JSON
+- XML
+- YAML
+- Serialization & deserialization
+
+### Day 10 – API Tooling
+- Postman usage
+- Swagger / OpenAPI basics
+- API documentation principles
+
+---
+
+## 🟨 Week 3 – Backend, Data & Security Foundations
+
+### Day 11 – Database Design
+- Relational vs NoSQL
+- Primary keys
+- Indexing
+- Normalization basics
+
+### Day 12 – Transactions & Caching
+- ACID properties
+- Caching basics
+- Consistency concepts
+
+### Day 13 – Authentication & Authorization
+- Authentication vs Authorization
+- Tokens vs sessions
+- JWT basics
+- Role-based access control
+
+### Day 14 – Encryption & Security Fundamentals
+- Hashing vs encryption
+- HTTPS overview
+- OWASP Top 10 (high level)
+- Secure coding mindset
+
+### Day 15 – Testing Fundamentals
+- Unit testing
+- Integration testing
+- E2E testing
+- Test pyramid
+- QA mindset
+
+---
+
+## 🟪 Week 4 – Infrastructure, Performance & System Thinking
+
+### Day 16 – Cloud Computing Basics
+- What is cloud?
+- IaaS vs PaaS vs SaaS
+- Regions & availability zones
+
+### Day 17 – DevOps & CI/CD
+- CI vs CD
+- Build pipelines
+- Deployment concepts
+- Environments (Dev / QA / Prod)
+
+### Day 18 – Logging & Monitoring
+- Why observability matters
+- Logs vs metrics
+- Error tracking basics
+
+### Day 19 – Networking Basics
+- IP addresses
+- TCP vs UDP
+- Ports
+- Firewalls
+
+### Day 20 – Performance & Big-O Basics
+- Time complexity
+- Space complexity
+- Performance mindset
+
+### Day 21 – System Design Fundamentals
+- Monolith vs Microservices
+- Scalability basics
+- Load balancing
+- CAP theorem (high level)
+
+### Day 22 – Operating System & Concurrency Basics
+- Processes vs threads
+- Concurrency vs parallelism
+- Memory basics (stack vs heap)
+
+---
+
+# 📚 Learning Format
 
 Each day includes:
 
@@ -64,18 +184,17 @@ Each day includes:
 
 ---
 
-## 🧭 How to Use This Repository
+# 🧭 How to Use This Repository
 
-1. Follow the days in sequence.
-2. Complete exercises before moving forward.
-3. Take notes and implement small practice examples.
+1. Follow modules sequentially.
+2. Complete exercises before progressing.
+3. Take notes and build small practical examples.
 4. Discuss concepts with peers or mentors.
-
-This bootcamp is self-paced and designed to build strong engineering intuition.
+5. Revisit sections when working on real systems.
 
 ---
 
-## 🌍 About Thynqit Labs
+# 🌍 About Thynqit Labs
 
 Thynqit Labs is an engineering-focused technology company building scalable mobile, web, cloud, and SaaS platforms.
 
@@ -83,13 +202,12 @@ We believe strong fundamentals create strong systems.
 
 ---
 
-## 📜 License
+# 🤝 Contributions
 
-This repository is shared for educational purposes.  
-You are free to use and adapt the material with attribution.
+If you would like to improve the curriculum, add high-quality resources, or refine explanations, feel free to open a Pull Request.
 
 ---
 
-## 🤝 Contributions
+# 📜 License
 
-If you would like to improve the curriculum, fix errors, or add resources, feel free to open a Pull Request.
+This repository is shared for educational purposes. You are free to use and adapt the material with attribution.
