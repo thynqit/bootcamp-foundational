@@ -1,4 +1,4 @@
-# Day 3 – User Stories & Project Tracking
+# Day 4 – User Stories & Project Tracking
 
 > Part of the Thynqit Labs – Foundational Engineering Bootcamp
 
@@ -147,9 +147,10 @@ A team receives a vague request:
 > “Improve performance.”
 
 Without clarity:
-- Developers guess.
-- QA tests unclear behavior.
-- Stakeholders remain unsatisfied.
+
+- Developers guess
+- QA tests unclear behavior
+- Stakeholders remain unsatisfied
 
 How would you convert this into structured user stories?
 
@@ -179,3 +180,13 @@ How would you convert this into structured user stories?
 - Review `resources.md`
 - Complete `assignments.md`
 - Practice writing user stories for real applications
+
+---
+
+## 🧭 Navigation
+
+← **Previous Lesson**  
+[Day 3 – Agile & Scrum Framework](../day-03/README.md)
+
+➡ **Next: Resources**  
+[Resources](./resources.md)

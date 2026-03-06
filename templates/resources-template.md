@@ -1,10 +1,16 @@
 # Resources – Day X
 
-> Curated learning resources for this module
+> Part of the Thynqit Labs – Foundational Engineering Bootcamp
 
 ---
 
-## 📖 Official Documentation (Highest Priority)
+## 📌 Overview
+
+Curated learning resources for this module
+
+---
+
+## 📖 Official Documentation
 
 Always prioritize official sources.
 
@@ -21,7 +27,7 @@ Always prioritize official sources.
 
 ---
 
-## 🎥 Recommended Videos (Optional)
+## 🎥 Recommended Videos
 
 Limit to 1–3 maximum.
 
@@ -46,3 +52,13 @@ Include only well-written technical content.
 - Prefer evergreen content over trend-based material.
 - Keep the list concise.
 - Quality > quantity.
+
+---
+
+## 🧭 Navigation
+
+← **Back to Lesson**  
+[Day X – Topic Name](./README.md)
+
+➡ **Next: Assignments**  
+[Assignments](./assignments.md)

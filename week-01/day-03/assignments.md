@@ -1,6 +1,19 @@
-# Assignments – Day 2: Agile & Scrum
+# Assignments – Day 3: Agile & Scrum Framework
 
-> Apply Agile principles and Scrum structure to real-world engineering scenarios.
+> Part of the Thynqit Labs – Foundational Engineering Bootcamp
+
+---
+
+## 📌 Overview
+
+These exercises help you apply Agile principles and the Scrum framework to realistic engineering scenarios.
+
+The goal is to understand:
+
+- why Agile emerged
+- how Scrum structures team collaboration
+- how iterative delivery reduces project risk
+- how engineering teams plan and manage work
 
 ---
 
@@ -38,9 +51,9 @@ After completing the table, answer:
 
 ## 🗂 Part 3 – Sprint Planning Simulation
 
-You are part of a team building a simple Task Management Web App.
+You are part of a team building a simple **Task Management Web App**.
 
-### Backlog Items:
+### Backlog Items
 
 - User Registration
 - Login & Logout
@@ -51,13 +64,13 @@ You are part of a team building a simple Task Management Web App.
 - Email Notification
 - Dark Mode UI
 
-### Exercise:
+### Exercise
 
-1. Choose 5 items for Sprint 1.
+1. Choose **5 items** for Sprint 1.
 2. Justify your selection.
-3. Write a simple Sprint Goal.
-4. Estimate effort qualitatively (Small / Medium / Large).
-5. Identify risks.
+3. Write a simple **Sprint Goal**.
+4. Estimate effort qualitatively (**Small / Medium / Large**).
+5. Identify potential risks.
 
 ---
 
@@ -65,9 +78,9 @@ You are part of a team building a simple Task Management Web App.
 
 For the same project:
 
-- What would the Product Owner focus on?
-- What would the Scrum Master focus on?
-- What would the Development Team focus on?
+- What would the **Product Owner** focus on?
+- What would the **Scrum Master** focus on?
+- What would the **Development Team** focus on?
 
 Explain responsibilities clearly.
 
@@ -119,3 +132,13 @@ Research a real-world product company.
 - How do they collect user feedback?
 - Do they use Scrum or a variation of Agile?
 - What advantages does that give them?
+
+---
+
+## 🧭 Navigation
+
+← **Previous: Resources**  
+[Resources](./resources.md)
+
+➡ **Next Lesson**  
+[Day 4 – User Stories & Project Tracking](../day-04/README.md)

@@ -1,6 +1,12 @@
 # Assignments – Day X
 
-> Apply the concepts learned in this module.
+> Part of the Thynqit Labs – Foundational Engineering Bootcamp
+
+---
+
+## 📌 Overview
+
+Apply the concepts learned in this module.
 
 ---
 
@@ -55,3 +61,13 @@ For learners who want deeper understanding:
 
 - [Advanced task]
 - [Edge-case exploration]
+
+---
+
+## 🧭 Navigation
+
+← **Previous: Resources**  
+[Resources](./resources.md)
+
+➡ **Next Lesson**  
+[Day X – Next Topic](../day-0X-next-topic/README.md)

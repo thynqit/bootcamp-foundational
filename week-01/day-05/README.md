@@ -1,4 +1,4 @@
-# Day 4 – Git Basics (CLI First Approach)
+# Day 5 – Git Basics (CLI First Approach)
 
 > Part of the Thynqit Labs – Foundational Engineering Bootcamp
 
@@ -67,10 +67,10 @@ This improves reliability and speed.
 
 Working Directory → Staging Area → Local Repository → Remote Repository
 
-1. Modify files
-2. Stage changes
-3. Commit locally
-4. Push to remote
+1. Modify files  
+2. Stage changes  
+3. Commit locally  
+4. Push to remote  
 
 Understanding this flow is critical.
 
@@ -166,11 +166,13 @@ A good commit message:
 - Explains why (not just what)
 
 Bad example:
+
 ```
 fix stuff
 ```
 
 Good example:
+
 ```
 Fix login validation error when email field is empty
 ```
@@ -193,7 +195,7 @@ Example types:
 
 ---
 
-### 6. What is .gitignore?
+### 6. What is `.gitignore`?
 
 `.gitignore` tells Git which files or folders to ignore.
 
@@ -250,3 +252,13 @@ Strong Git discipline is a core engineering skill.
 - Review `resources.md`
 - Complete `assignments.md`
 - Practice all commands via CLI only
+
+---
+
+## 🧭 Navigation
+
+← **Previous Lesson**  
+[Day 4 – User Stories & Project Tracking](../day-04/README.md)
+
+➡ **Next: Resources**  
+[Resources](./resources.md)

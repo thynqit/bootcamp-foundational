@@ -92,3 +92,13 @@ Encourage deeper thinking:
 - Complete `assignments.md`
 - Discuss concepts with peers
 - Apply this knowledge in small practice examples
+
+---
+
+## 🧭 Navigation
+
+← **Previous Lesson**  
+[Day X – Previous Topic](../day-0X-previous-topic/README.md)
+
+➡ **Next: Resources**  
+[Resources](./resources.md)
