@@ -181,7 +181,7 @@ How does this reduce business risk?
 ## 🧭 Navigation
 
 ← **Previous Lesson**  
-[Day 2 – Software Development Lifecycle](../day-02/README.md)
+[Day 2](../day-02/README.md)
 
 ➡ **Next: Resources**  
 [Resources](./resources.md)

@@ -62,9 +62,9 @@ This curriculum introduces these topics progressively to build **real-world engi
 
 Start your learning journey here:
 
-- **Begin Learning → [Week 1 – Security & Software Delivery](./week-01-security-software-delivery)**
-- **Explore System Design → [Week 5 – System Design](./week-05-system-design)**
-- **Architecture Documentation → [Week 6 – Engineering Documentation](./week-06-engineering-documentation)**
+- **Begin Learning → [Week 1 – Security & Software Delivery](./week-01)**
+- **Explore System Design → [Week 5 – System Design](./week-05)**
+- **Architecture Documentation → [Week 6 – Engineering Documentation](./week-06)**
 
 ---
 
@@ -144,80 +144,80 @@ Each day contains:
 # 🛣 Curriculum Roadmap
 
 ## Week 1 – Security & Software Delivery Foundations
-[Open Week 1](./week-01-security-software-delivery)
+[Open Week 1](./week-01)
 
 | Day | Topic |
 |----|------|
-| Day 1 | [Cybersecurity Fundamentals](./week-01-security-software-delivery/day-01-cybersecurity) |
-| Day 2 | [Software Development Lifecycle](./week-01-security-software-delivery/day-02-sdlc) |
-| Day 3 | [Agile & Scrum](./week-01-security-software-delivery/day-03-agile-scrum) |
-| Day 4 | [User Stories & Project Tracking](./week-01-security-software-delivery/day-04-user-stories-project-tracking) |
-| Day 5 | [Git Basics](./week-01-security-software-delivery/day-05-git-basics) |
+| Day 1 | [Cybersecurity Fundamentals](./week-01/day-01) |
+| Day 2 | [Software Development Lifecycle](./week-01/day-02) |
+| Day 3 | [Agile & Scrum](./week-01/day-03) |
+| Day 4 | [User Stories & Project Tracking](./week-01/day-04) |
+| Day 5 | [Git Basics](./week-01/day-05) |
 
 ---
 
 ## Week 2 – Git Collaboration & Web Fundamentals
-[Open Week 2](./week-02-web-git-collaboration)
+[Open Week 2](./week-02)
 
 | Day | Topic |
 |----|------|
-| Day 6 | [Git Branching & Code Review](./week-02-web-git-collaboration/day-06-git-advanced-code-review) |
-| Day 7 | [How the Web Works](./week-02-web-git-collaboration/day-07-how-the-web-works) |
-| Day 8 | [HTTP Fundamentals](./week-02-web-git-collaboration/day-08-http-fundamentals) |
-| Day 9 | [APIs & REST Design](./week-02-web-git-collaboration/day-09-api-design) |
-| Day 10 | [Data Formats](./week-02-web-git-collaboration/day-10-data-formats) |
+| Day 6 | [Git Branching & Code Review](./week-02/day-06) |
+| Day 7 | [How the Web Works](./week-02/day-07) |
+| Day 8 | [HTTP Fundamentals](./week-02/day-08) |
+| Day 9 | [APIs & REST Design](./week-02/day-09) |
+| Day 10 | [Data Formats](./week-02/day-10) |
 
 ---
 
 ## Week 3 – Backend Engineering Foundations
-[Open Week 3](./week-03-backend-foundations)
+[Open Week 3](./week-03)
 
 | Day | Topic |
 |----|------|
-| Day 11 | [API Design Principles](./week-03-backend-foundations/day-11-api-design) |
-| Day 12 | [Database Design Fundamentals](./week-03-backend-foundations/day-12-database-design) |
-| Day 13 | [Authentication & Authorization](./week-03-backend-foundations/day-13-auth-auth) |
-| Day 14 | [Encryption & Security](./week-03-backend-foundations/day-14-encryption-security) |
-| Day 15 | [Testing Fundamentals](./week-03-backend-foundations/day-15-testing) |
+| Day 11 | [API Design Principles](./week-03/day-11) |
+| Day 12 | [Database Design Fundamentals](./week-03/day-12) |
+| Day 13 | [Authentication & Authorization](./week-03/day-13) |
+| Day 14 | [Encryption & Security](./week-03/day-14) |
+| Day 15 | [Testing Fundamentals](./week-03/day-15) |
 
 ---
 
 ## Week 4 – Cloud & Infrastructure
-[Open Week 4](./week-04-cloud-infrastructure)
+[Open Week 4](./week-04)
 
 | Day | Topic |
 |----|------|
-| Day 16 | [Cloud Fundamentals](./week-04-cloud-infrastructure/day-16-cloud-basics) |
-| Day 17 | [DevOps & CI/CD](./week-04-cloud-infrastructure/day-17-devops-cicd) |
-| Day 18 | [Logging & Monitoring](./week-04-cloud-infrastructure/day-18-observability) |
-| Day 19 | [Networking Basics](./week-04-cloud-infrastructure/day-19-networking) |
-| Day 20 | [Linux CLI for Engineers](./week-04-cloud-infrastructure/day-20-linux-cli) |
+| Day 16 | [Cloud Fundamentals](./week-04/day-16s) |
+| Day 17 | [DevOps & CI/CD](./week-04/day-17) |
+| Day 18 | [Logging & Monitoring](./week-04/day-18) |
+| Day 19 | [Networking Basics](./week-04/day-19) |
+| Day 20 | [Linux CLI for Engineers](./week-04/day-20) |
 
 ---
 
 ## Week 5 – System Design
-[Open Week 5](./week-05-system-design)
+[Open Week 5](./week-05)
 
 | Day | Topic |
 |----|------|
-| Day 21 | [System Design Basics](./week-05-system-design/day-21-system-design) |
-| Day 22 | [Monolith Architecture](./week-05-system-design/day-22-monolith) |
-| Day 23 | [Microservices Architecture](./week-05-system-design/day-23-microservices) |
-| Day 24 | [Scalability Concepts](./week-05-system-design/day-24-scalability) |
-| Day 25 | [Performance & Reliability](./week-05-system-design/day-25-performance) |
+| Day 21 | [System Design Basics](./week-05/day-21) |
+| Day 22 | [Monolith Architecture](./week-05/day-22) |
+| Day 23 | [Microservices Architecture](./week-05/day-23) |
+| Day 24 | [Scalability Concepts](./week-05/day-24) |
+| Day 25 | [Performance & Reliability](./week-05/day-25) |
 
 ---
 
 ## Week 6 – Engineering Documentation
-[Open Week 6](./week-06-engineering-documentation)
+[Open Week 6](./week-06)
 
 | Day | Topic |
 |----|------|
-| Day 26 | [Business Requirement Document](./week-06-engineering-documentation/day-26-brd) |
-| Day 27 | [Product Requirement Document](./week-06-engineering-documentation/day-27-prd) |
-| Day 28 | [Feature Specification](./week-06-engineering-documentation/day-28-feature-spec) |
-| Day 29 | [API Specification & DB Schema](./week-06-engineering-documentation/day-29-api-db) |
-| Day 30 | [Architecture Documentation](./week-06-engineering-documentation/day-30-architecture-docs) |
+| Day 26 | [Business Requirement Document](./week-06/day-26) |
+| Day 27 | [Product Requirement Document](./week-06/day-27) |
+| Day 28 | [Feature Specification](./week-06/day-28) |
+| Day 29 | [API Specification & DB Schema](./week-06/day-29) |
+| Day 30 | [Architecture Documentation](./week-06/day-30) |
 
 ---
 
@@ -261,12 +261,12 @@ bootcamp-foundational
 │
 ├── templates
 │
-├── week-01-security-software-delivery
-├── week-02-web-git-collaboration
-├── week-03-backend-foundations
-├── week-04-cloud-infrastructure
-├── week-05-system-design
-└── week-06-engineering-documentation
+├── week-01
+├── week-02
+├── week-03
+├── week-04
+├── week-05
+└── week-06
 ```
 
 ---

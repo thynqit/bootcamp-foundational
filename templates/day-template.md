@@ -98,7 +98,7 @@ Encourage deeper thinking:
 ## 🧭 Navigation
 
 ← **Previous Lesson**  
-[Day X – Previous Topic](../day-0X-previous-topic/README.md)
+[Day X](../day-0X/README.md)
 
 ➡ **Next: Resources**  
 [Resources](./resources.md)

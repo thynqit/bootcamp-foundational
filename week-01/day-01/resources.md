@@ -95,7 +95,7 @@ These explain how real cyber incidents occur in organizations.
 ## 🧭 Navigation
 
 ← **Back to Lesson**  
-[Day 1 – Cybersecurity Fundamentals](./README.md)
+[Day 1](./README.md)
 
 ➡ **Next: Assignments**  
 [Assignments](./assignments.md)

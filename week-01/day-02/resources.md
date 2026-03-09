@@ -79,7 +79,7 @@ Choose at least one video and compare the explanation with official documentatio
 ## 🧭 Navigation
 
 ← **Back to Lesson**  
-[Day 2 – Software Development Lifecycle](./README.md)
+[Day 2](./README.md)
 
 ➡ **Next: Assignments**  
 [Assignments](./assignments.md)

@@ -86,7 +86,7 @@ Watch at least:
 ## 🧭 Navigation
 
 ← **Back to Lesson**  
-[Day 4 – User Stories & Project Tracking](./README.md)
+[Day 4](./README.md)
 
 ➡ **Next: Assignments**  
 [Assignments](./assignments.md)

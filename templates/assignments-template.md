@@ -70,4 +70,4 @@ For learners who want deeper understanding:
 [Resources](./resources.md)
 
 ➡ **Next Lesson**  
-[Day X – Next Topic](../day-0X-next-topic/README.md)
+[Day X](../day-0X/README.md)

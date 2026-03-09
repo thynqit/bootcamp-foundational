@@ -131,4 +131,4 @@ For learners who want to go further:
 
 Start the module here:
 
-➡ **[Day 1 – <Topic Name>](./day-01-<topic>/README.md)**
+➡ **[Day 1](./day-01/README.md)**

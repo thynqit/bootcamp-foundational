@@ -186,7 +186,7 @@ How would you convert this into structured user stories?
 ## 🧭 Navigation
 
 ← **Previous Lesson**  
-[Day 3 – Agile & Scrum Framework](../day-03/README.md)
+[Day 3](../day-03/README.md)
 
 ➡ **Next: Resources**  
 [Resources](./resources.md)
