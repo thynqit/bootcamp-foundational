@@ -164,8 +164,8 @@ Each day contains:
 | Day 6 | [Git Branching & Code Review](./week-02/day-06) |
 | Day 7 | [How the Web Works](./week-02/day-07) |
 | Day 8 | [HTTP Fundamentals](./week-02/day-08) |
-| Day 9 | [APIs & REST Design](./week-02/day-09) |
-| Day 10 | [Data Formats](./week-02/day-10) |
+| Day 9 | [Data Formats](./week-02/day-09) |
+| Day 10 | [APIs & REST Design](./week-02/day-10) |
 
 ---
 
