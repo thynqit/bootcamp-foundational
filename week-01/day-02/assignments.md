@@ -1,10 +1,23 @@
-# Assignments – Day 1: Software Development Lifecycle (SDLC)
+# Assignments – Day 2: Software Development Lifecycle (SDLC)
 
-> Apply the concepts learned in this module.
+> Part of the Thynqit Labs – Foundational Engineering Bootcamp
 
 ---
 
-## 🧠 Part 1 – Conceptual Understanding
+## 📌 Overview
+
+Apply the concepts learned in this module to understand how structured development processes help engineering teams build reliable software systems.
+
+These exercises focus on:
+
+- understanding SDLC phases
+- comparing development models
+- analyzing real engineering scenarios
+- reflecting on process discipline in software projects
+
+---
+
+## 🧠 Conceptual Questions
 
 Answer the following in your own words:
 
@@ -18,9 +31,9 @@ Avoid copying definitions. Focus on explanation.
 
 ---
 
-## 🔍 Part 2 – Comparative Thinking
+## 🔍 Comparative Thinking
 
-Create a comparison table between Waterfall and Agile including:
+Create a comparison table between **Waterfall** and **Agile** including:
 
 - Requirement flexibility
 - Feedback cycle
@@ -36,11 +49,11 @@ After creating the table, answer:
 
 ---
 
-## 🧩 Part 3 – Scenario-Based Application
+## 🧩 Scenario-Based Thinking
 
-### Scenario 1
+### Scenario 1 – Regulated System
 
-You are building a hospital management system where requirements are clearly defined and regulated.
+You are building a **hospital management system** where requirements are clearly defined and heavily regulated.
 
 - Which SDLC model would you choose?
 - Why?
@@ -48,9 +61,9 @@ You are building a hospital management system where requirements are clearly def
 
 ---
 
-### Scenario 2
+### Scenario 2 – Startup Product
 
-You are building a startup product where features change weekly based on user feedback.
+You are building a **startup product** where features change frequently based on user feedback.
 
 - Which model would you use?
 - Why?
@@ -69,16 +82,17 @@ Midway through the project, major changes are requested.
 
 ---
 
-## 🛠 Part 4 – Practical Exercise
+## 🛠 Practical Exercises
 
-Draw a simple SDLC diagram for a small application of your choice.
+Draw a simple **SDLC diagram** for a small application of your choice.
 
-Example:
+Examples:
+
 - Task Manager App
 - E-commerce Website
 - Blogging Platform
 
-For each phase, briefly describe:
+For each phase describe:
 
 - What happens in that phase
 - Who is responsible
@@ -88,7 +102,7 @@ You may draw digitally or on paper and summarize in writing.
 
 ---
 
-## 🔄 Part 5 – Reflection
+## 🔄 Reflection
 
 Write short answers to the following:
 
@@ -111,7 +125,9 @@ Write short answers to the following:
 
 ## 🚀 Optional Challenge (Advanced)
 
-Research a real-world software failure or postmortem (e.g., outage or major product issue).
+Research a real-world software failure or postmortem.
+
+Examples include major outages, failed launches, or engineering incidents.
 
 Identify:
 
@@ -119,3 +135,13 @@ Identify:
 - Was it a testing failure?
 - Was it requirement misalignment?
 - How could better SDLC discipline have helped?
+
+---
+
+## 🧭 Navigation
+
+← **Previous: Resources**  
+[Resources](./resources.md)
+
+➡ **Next Lesson**  
+[Day 3 – Agile & Scrum](../day-03/README.md)

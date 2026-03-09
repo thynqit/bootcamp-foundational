@@ -1,4 +1,4 @@
-# Day 2 – Agile & Scrum Framework
+# Day 3 – Agile & Scrum Framework
 
 > Part of the Thynqit Labs – Foundational Engineering Bootcamp
 
@@ -141,10 +141,10 @@ You are building a SaaS platform.
 
 Customer feedback suggests major UX improvements after initial release.
 
-Under Waterfall:
+Under Waterfall:  
 Changes are expensive and delayed.
 
-Under Agile:
+Under Agile:  
 Changes can be prioritized into upcoming sprints.
 
 How does this reduce business risk?
@@ -175,3 +175,13 @@ How does this reduce business risk?
 - Review `resources.md`
 - Complete `assignments.md`
 - Compare Scrum with traditional project management
+
+---
+
+## 🧭 Navigation
+
+← **Previous Lesson**  
+[Day 2 – Software Development Lifecycle](../day-02/README.md)
+
+➡ **Next: Resources**  
+[Resources](./resources.md)

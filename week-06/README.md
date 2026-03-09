@@ -4,17 +4,8 @@
 
 ---
 
-## 📘 Overview
+## 📌 Module Overview
 
-Provide a brief introduction to this module.
-
-Explain:
-
-- What this module covers
-- Why these topics are important for software engineers
-- How this module fits into the overall curriculum
-
-```
 This module focuses on [high-level theme of the week].
 
 In this week, learners will explore:
@@ -29,19 +20,11 @@ This module builds the foundation required to understand:
 - 
 - 
 - 
-```
 
 ---
 
-## 🎯 Learning Objectives
+## 🎯 Learning Outcomes
 
-By the end of this module, learners should be able to:
-
-- Understand the core concepts introduced in this module
-- Apply these concepts in real-world software engineering workflows
-- Build foundational knowledge required for later modules
-
-```
 By the end of this week, learners should be able to:
 
 - 
@@ -50,19 +33,18 @@ By the end of this week, learners should be able to:
 - 
 
 These outcomes focus on practical engineering readiness rather than theoretical memorization.
-```
 
 ---
 
 ## 🗂 Topics Covered
 
 | Day | Topic |
-|-----|------|
-| Day 1 | Topic Name |
-| Day 2 | Topic Name |
-| Day 3 | Topic Name |
-| Day 4 | Topic Name |
-| Day 5 | Topic Name |
+|-----|-------|
+| Day X | |
+| Day X | |
+| Day X | |
+| Day X | |
+| Day X | |
 
 ---
 
@@ -74,7 +56,7 @@ Explain how this week connects to:
 - The next module
 - Real-world software development
 
-Examples:
+Example prompts:
 
 - Why does this module come first?
 - What would break if this foundation was weak?
@@ -126,9 +108,3 @@ For learners who want to go further:
 - Recommended books
 - Related system design topics
 - Industry case studies
-
-## 🧭 Navigation
-
-Start the module here:
-
-➡ **[Day 1 – <Topic Name>](./day-01-<topic>/README.md)**
