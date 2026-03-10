@@ -223,6 +223,209 @@ These mistakes increase the risk of conflicts and unstable releases.
 
 ---
 
+## 🧭 Git Collaboration Best Practices
+
+Professional engineering teams follow disciplined Git workflows to ensure stability, traceability, and collaboration.
+
+Below are widely accepted practices used across many organizations.
+
+---
+
+### 1. Write Meaningful Commit Messages
+
+Commit messages should clearly explain the purpose of a change.
+
+**Recommended format**
+
+```
+<type>: <short summary>
+
+Optional explanation describing why the change was needed
+```
+
+Common commit types:
+
+- `feat:` new feature
+- `fix:` bug fix
+- `docs:` documentation changes
+- `refactor:` internal code improvements
+- `test:` test updates
+- `chore:` maintenance tasks
+
+**Good Example**
+
+```
+feat: add login validation for empty email field
+```
+
+**Bad Example**
+
+```
+fix stuff
+update code
+misc changes
+```
+
+Good commit messages help future engineers understand the history of a system.
+
+---
+
+### 2. Keep Pull Requests Small
+
+Large pull requests are difficult to review.
+
+Small pull requests are preferred because they:
+
+- reduce review time
+- reduce risk
+- make bugs easier to detect
+- simplify rollbacks
+
+**Best practice**
+
+- 1 feature per pull request
+- avoid hundreds of changed files
+
+Small changes improve code review quality.
+
+---
+
+### 3. Push Changes Frequently
+
+Do not keep large changes only on your local machine.
+
+Best practice:
+
+```
+Commit often
+Push frequently
+```
+
+Reasons:
+
+- protects work if the system fails
+- allows early collaboration
+- reduces large merge conflicts later
+
+Engineering environments are unpredictable — frequent pushes reduce risk.
+
+---
+
+### 4. Use Meaningful Branch Names
+
+Branch names should describe the work being done.
+
+Common conventions:
+
+```
+feature/login-system
+feature/payment-integration
+
+bugfix/session-timeout
+
+hotfix/security-patch
+
+release/v1.2.0
+```
+
+Avoid vague names like:
+
+```
+test
+temp
+newbranch
+```
+
+Clear branch names improve repository clarity.
+
+---
+
+### 5. Delete Branches After Merge
+
+After a pull request is merged:
+
+- delete the feature branch
+
+Reasons:
+
+- prevents accidental reuse
+- keeps repository clean
+- avoids confusion about active work
+
+Most repositories automatically suggest branch deletion after merge.
+
+---
+
+### 6. Always Pull Before Starting Work
+
+Before beginning work:
+
+```
+git checkout main
+git pull origin main
+```
+
+This ensures your branch starts from the **latest codebase**.
+
+Failing to do this increases the chance of merge conflicts.
+
+---
+
+### 7. Do Not Commit Secrets
+
+Never commit sensitive data such as:
+
+- `.env` files
+- API keys
+- private tokens
+- credentials
+
+Use `.gitignore` to prevent these files from entering version control.
+
+Exposing secrets can cause **serious security incidents**.
+
+---
+
+### 8. Run Tests Before Opening Pull Requests
+
+Before submitting a pull request:
+
+- run unit tests
+- ensure builds pass
+- verify basic functionality
+
+Submitting broken code wastes reviewer time.
+
+---
+
+### 9. Review Code Respectfully
+
+Code reviews should focus on **improving code**, not criticizing people.
+
+Good review culture includes:
+
+- constructive feedback
+- clear explanations
+- collaborative discussion
+
+Healthy review culture strengthens engineering teams.
+
+---
+
+### 10. Keep the Main Branch Stable
+
+Production systems often rely on the `main` branch.
+
+Best practices include:
+
+- avoid direct commits to `main`
+- require pull requests
+- run automated checks before merging
+
+This ensures the main branch always remains deployable.
+
+---
+
 ## 🔄 Reflection Questions
 
 - Why should teams avoid committing directly to the main branch?
