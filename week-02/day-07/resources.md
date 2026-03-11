@@ -181,7 +181,7 @@ This helps illustrate how the internet routes traffic globally.
 Short explanations showing how the internet and web work.
 
 - What Happens When You Type a URL Into a Browser  
-  https://www.youtube.com/watch?v=7_LPdttKXPc
+  https://www.youtube.com/watch?v=0cU4sIP-OuE
 
 - How the Internet Works in 5 Minutes  
   https://www.youtube.com/watch?v=x3c1ih2NJEg
