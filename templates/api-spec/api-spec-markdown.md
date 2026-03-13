@@ -735,6 +735,8 @@ curl -X PATCH https://api.example.com/api/v1/users/usr_101 \
 | 404 | User not found |
 | 500 | Internal server error |
 
+---
+
 ## Application Response Codes
 
 | Code | Meaning |
@@ -832,6 +834,8 @@ curl -X DELETE https://api.example.com/api/v1/users/usr_101 \
 | 204 | User deleted |
 | 404 | User not found |
 | 500 | Internal server error |
+
+---
 
 ## Application Response Codes
 
