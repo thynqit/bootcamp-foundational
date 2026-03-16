@@ -1,77 +1,91 @@
-# Week X – [Module Name]
+# Week 3 – Backend Engineering Foundations
 
 > Part of the Thynqit Labs – Foundational Engineering Bootcamp
 
 ---
 
-## 📌 Module Overview
+## 📘 Overview
 
-This module focuses on [high-level theme of the week].
+Modern software systems are powered by backend services that process requests, enforce security, manage data, and ensure system reliability.
 
-In this week, learners will explore:
+While Week 2 focused on how **clients communicate with servers through APIs**, this module explores how backend systems are **designed, secured, and validated in production environments**.
 
-- 
-- 
-- 
-- 
+This week introduces key backend engineering principles including **API design standards, database schema design, authentication mechanisms, encryption techniques, and testing practices**.
 
-This module builds the foundation required to understand:
+These concepts form the foundation required to build secure and reliable backend systems.
 
-- 
-- 
-- 
+By the end of this week, learners will understand how backend services are structured and how they manage data, security, and correctness.
 
 ---
 
-## 🎯 Learning Outcomes
+## 🎯 Learning Objectives
 
-By the end of this week, learners should be able to:
+By the end of this module, learners should be able to:
 
-- 
-- 
-- 
-- 
-
-These outcomes focus on practical engineering readiness rather than theoretical memorization.
+- Apply professional API design principles and conventions
+- Understand how backend systems store and organize data
+- Design basic relational database schemas
+- Explain authentication and authorization mechanisms
+- Understand encryption techniques used in secure communication
+- Recognize different types of software testing used in engineering teams
 
 ---
 
-## 🗂 Topics Covered
+## 📚 Topics Covered
 
 | Day | Topic |
-|-----|-------|
-| Day X | |
-| Day X | |
-| Day X | |
-| Day X | |
-| Day X | |
+|-----|------|
+| Day 11 | API Design Principles |
+| Day 12 | Database Design Fundamentals |
+| Day 13 | Authentication & Authorization |
+| Day 14 | Encryption & Security |
+| Day 15 | Testing Fundamentals |
 
 ---
 
 ## 🔗 How This Module Connects
 
-Explain how this week connects to:
+### Connection to Week 2
 
-- The previous module
-- The next module
-- Real-world software development
+Week 2 introduced **how systems communicate through the web**:
 
-Example prompts:
+- how browsers send HTTP requests
+- how servers expose APIs
+- how data is exchanged between systems
+- how developers collaborate using Git
 
-- Why does this module come first?
-- What would break if this foundation was weak?
-- How does this prepare engineers for production systems?
+Week 3 expands on these ideas by explaining **how backend systems are actually implemented behind those APIs.**
+
+Learners will explore how APIs are designed, how data is stored in databases, how systems enforce security, and how engineers ensure system correctness through testing.
+
+---
+
+### Connection to Upcoming Modules
+
+Future modules build on these backend fundamentals:
+
+- Cloud infrastructure relies on backend services and databases
+- DevOps pipelines automate testing and deployment
+- System design requires understanding backend architectures
+- Scalable systems require strong data modeling and security practices
+
+Understanding backend engineering is essential before exploring **cloud systems, distributed architectures, and large-scale system design.**
 
 ---
 
 ## 🧠 Engineering Perspective
 
-Highlight:
+In production environments, backend systems are responsible for:
 
-- Why experienced engineers care about this module
-- Common industry pitfalls
-- Where beginners struggle
-- What separates junior vs mature understanding in this area
+- processing incoming API requests
+- validating user identity and permissions
+- storing and retrieving application data
+- protecting sensitive information
+- ensuring software reliability through testing
+
+Engineers working on backend systems must balance **performance, reliability, security, and maintainability**.
+
+A strong understanding of backend fundamentals enables engineers to design systems that are robust, scalable, and secure.
 
 ---
 
@@ -79,32 +93,44 @@ Highlight:
 
 Recommended progression:
 
-1. Complete daily modules in order.
-2. Take notes in your own words.
-3. Apply concepts in small examples.
-4. Reflect on production implications.
+1. Study how professional APIs are designed and documented.
+2. Learn how data models translate into relational database schemas.
+3. Understand authentication mechanisms used by modern APIs.
+4. Explore encryption techniques that protect communication and stored data.
+5. Practice writing and understanding different types of software tests.
 
-Do not rush through topics without understanding underlying principles.
+Focus on understanding the **reasoning behind design decisions**, not just the mechanics.
 
 ---
 
-## ✅ Completion Criteria
+## ✅ Learning Verification
 
-Before moving to the next module:
+Before moving to the next module, learners should be able to:
 
-- [ ] All daily modules completed
-- [ ] Assignments attempted
-- [ ] Reflection questions answered
-- [ ] Core concepts understood
-- [ ] Ability to explain major topics clearly
+- Explain key principles of REST API design
+- Design a basic relational database schema
+- Distinguish between authentication and authorization
+- Understand how encryption protects sensitive data
+- Describe the purpose of unit, integration, and API testing
 
 ---
 
 ## 🚀 Optional Deep Dive
 
-For learners who want to go further:
+Learners interested in deeper exploration may study:
 
-- Suggested advanced readings
-- Recommended books
-- Related system design topics
-- Industry case studies
+- API versioning strategies used by large platforms
+- database indexing and query optimization
+- OAuth and OpenID Connect authentication frameworks
+- cryptographic hashing and digital signatures
+- test-driven development (TDD)
+
+These topics become increasingly important when building **large-scale distributed systems**.
+
+---
+
+## 🧭 Navigation
+
+Start the module here:
+
+➡ **[Day 11](./day-11/README.md)**
