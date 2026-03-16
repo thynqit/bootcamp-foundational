@@ -183,4 +183,4 @@ Add the following:
 [Resources](./resources.md)
 
 ➡ **Next Lesson**  
-[Day 5 – Git Basics](../day-05/README.md)
+[Day 5](../day-05/README.md)

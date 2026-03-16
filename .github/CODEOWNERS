@@ -1,0 +1,15 @@
+# CODEOWNERS
+
+# Default repository owner
+* @hardik-thynqit
+
+# Bootcamp curriculum
+/week-01/ @hardik-thynqit
+/week-02/ @hardik-thynqit
+/week-03/ @hardik-thynqit
+/week-04/ @hardik-thynqit
+/week-05/ @hardik-thynqit
+/week-06/ @hardik-thynqit
+
+# Templates and shared resources
+/templates/ @hardik-thynqit

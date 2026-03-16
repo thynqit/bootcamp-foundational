@@ -347,4 +347,4 @@ git log --graph --oneline --all
 [Resources](./resources.md)
 
 ➡ **Next Module**  
-[Week 2 – Web Fundamentals](../week-02/README.md)
+[Week 2](../../week-02/README.md)

@@ -142,3 +142,11 @@ Learners who want to explore these topics further may consider:
 - Studying **Git workflows** such as GitFlow and Trunk-Based Development
 - Reviewing real-world **engineering postmortems** to understand how process and security failures affect production systems
 - Observing how professional teams manage software delivery through tools like Jira, GitHub, and CI/CD pipelines
+
+---
+
+## 🧭 Navigation
+
+Start the module here:
+
+➡ **[Day 1](./day-01/README.md)**

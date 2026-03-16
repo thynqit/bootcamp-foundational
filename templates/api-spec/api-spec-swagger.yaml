@@ -1,0 +1,392 @@
+openapi: 3.0.3
+
+info:
+  title: User APIs – REST API Specification
+  description: |
+    Part of the Thynqit Labs – Foundational Engineering Bootcamp
+
+    REST APIs used for managing Users in the system.
+  version: 1.0.0
+
+servers:
+  - url: https://api.example.com/api/v1
+    description: Production Server
+
+tags:
+  - name: Users
+    description: User management APIs
+
+security:
+  - BearerAuth: []
+
+paths:
+
+  /users:
+
+    post:
+      tags:
+        - Users
+      summary: Create User
+      description: Creates a new user in the system.
+      security:
+        - BearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/CreateUserRequest'
+      responses:
+        '201':
+          description: User created successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CreateUserResponse'
+        '400':
+          description: Bad request
+        '401':
+          description: Unauthorized
+        '500':
+          description: Internal server error
+
+    get:
+      tags:
+        - Users
+      summary: Get All Users
+      description: Returns a paginated list of users.
+      parameters:
+        - name: page
+          in: query
+          schema:
+            type: integer
+            example: 1
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            example: 20
+      responses:
+        '200':
+          description: Users retrieved successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetUsersResponse'
+        '401':
+          description: Unauthorized
+        '500':
+          description: Internal server error
+
+  /users/{user_id}:
+
+    get:
+      tags:
+        - Users
+      summary: Get User By ID
+      description: Returns a specific user.
+      parameters:
+        - name: user_id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: User retrieved successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetUserResponse'
+        '404':
+          description: User not found
+
+    put:
+      tags:
+        - Users
+      summary: Update User
+      description: Update a specific user.
+      parameters:
+        - name: user_id
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UpdateUserRequest'
+      responses:
+        '200':
+          description: User updated successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UpdateUserResponse'
+        '404':
+          description: User not found
+
+    patch:
+      tags:
+        - Users
+      summary: Patch User
+      description: Partially update a specific user.
+      parameters:
+        - name: user_id
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PatchUserRequest'
+      responses:
+        '200':
+          description: User updated successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PatchUserResponse'
+        '404':
+          description: User not found
+
+    delete:
+      tags:
+        - Users
+      summary: Delete User
+      description: Delete a specific user.
+      parameters:
+        - name: user_id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '204':
+          description: User deleted successfully
+        '404':
+          description: User not found
+
+components:
+
+  securitySchemes:
+    BearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+
+  schemas:
+
+    User:
+      type: object
+      properties:
+        id:
+          type: string
+          example: usr_101
+        firstName:
+          type: string
+        lastName:
+          type: string
+        email:
+          type: string
+        phone:
+          type: string
+        status:
+          type: string
+        createdAt:
+          type: string
+          format: date-time
+
+    CreateUserRequest:
+      type: object
+      required:
+        - firstName
+        - lastName
+        - email
+        - status
+      properties:
+        firstName:
+          type: string
+          example: John
+        lastName:
+          type: string
+          example: Doe
+        email:
+          type: string
+          example: john@example.com
+        phone:
+          type: string
+          example: "+919876543210"
+        status:
+          type: string
+          example: active
+
+    UpdateUserRequest:
+      type: object
+      required:
+        - firstName
+        - lastName
+        - email
+        - status
+      properties:
+        firstName:
+          type: string
+        lastName:
+          type: string
+        email:
+          type: string
+        phone:
+          type: string
+        status:
+          type: string
+
+    PatchUserRequest:
+      type: object
+      properties:
+        firstName:
+          type: string
+        lastName:
+          type: string
+        email:
+          type: string
+        phone:
+          type: string
+        status:
+          type: string
+
+    StandardResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          example: success
+        code:
+          type: integer
+        message:
+          type: string
+        data:
+          type: object
+
+    CreateUserResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          example: success
+        code:
+          type: integer
+          example: 1001
+        message:
+          type: string
+          example: User created successfully.
+        data:
+          $ref: '#/components/schemas/User'
+
+    GetUsersResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          example: success
+        code:
+          type: integer
+          example: 1002
+        message:
+          type: string
+          example: Users retrieved successfully.
+        data:
+          type: object
+          properties:
+            page:
+              type: integer
+              example: 1
+            limit:
+              type: integer
+              example: 20
+            total:
+              type: integer
+              example: 100
+            data:
+              type: array
+              items:
+                $ref: '#/components/schemas/User'
+
+    GetUserResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          example: success
+        code:
+          type: integer
+          example: 1003
+        message:
+          type: string
+          example: User retrieved successfully.
+        data:
+          $ref: '#/components/schemas/User'
+
+    UpdateUserResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          example: success
+        code:
+          type: integer
+          example: 1004
+        message:
+          type: string
+          example: User updated successfully.
+        data:
+          $ref: '#/components/schemas/User'
+
+    PatchUserResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          example: success
+        code:
+          type: integer
+          example: 1004
+        message:
+          type: string
+          example: User updated successfully.
+        data:
+          type: object
+
+    DeleteUserResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          example: success
+        code:
+          type: integer
+          example: 1005
+        message:
+          type: string
+          example: User deleted successfully.
+        data:
+          type: object
+
+    ErrorResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          example: failure
+        code:
+          type: integer
+          example: 1062
+        message:
+          type: string
+          example: User not found.
+        data:
+          type: object

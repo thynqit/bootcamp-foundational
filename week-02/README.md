@@ -1,77 +1,89 @@
-# Week X – [Module Name]
+# Week 2 – Git Collaboration & Web Fundamentals
 
 > Part of the Thynqit Labs – Foundational Engineering Bootcamp
 
 ---
 
-## 📌 Module Overview
+## 📘 Overview
 
-This module focuses on [high-level theme of the week].
+Modern software development requires two critical capabilities:
 
-In this week, learners will explore:
+1. **Collaborating effectively using version control**
+2. **Understanding how software communicates over the web**
 
-- 
-- 
-- 
-- 
+While Week 1 introduced the fundamentals of Git, this module expands into **collaborative Git workflows** used by professional engineering teams.
 
-This module builds the foundation required to understand:
+The module then introduces **core web fundamentals** that explain how browsers, servers, and APIs interact in modern systems.
 
-- 
-- 
-- 
+By the end of this week, learners will understand how engineers collaborate on codebases and how software communicates across networks.
 
 ---
 
-## 🎯 Learning Outcomes
+## 🎯 Learning Objectives
 
-By the end of this week, learners should be able to:
+By the end of this module, learners should be able to:
 
-- 
-- 
-- 
-- 
-
-These outcomes focus on practical engineering readiness rather than theoretical memorization.
+- Understand Git branching workflows used by development teams
+- Participate in code review and pull request workflows
+- Explain how the internet and the web function at a high level
+- Understand HTTP request and response mechanisms
+- Describe how APIs expose functionality between systems
+- Understand common data exchange formats used in web systems
 
 ---
 
-## 🗂 Topics Covered
+## 📚 Topics Covered
 
 | Day | Topic |
-|-----|-------|
-| Day X | |
-| Day X | |
-| Day X | |
-| Day X | |
-| Day X | |
+|-----|------|
+| Day 6 | Git Branching & Code Review |
+| Day 7 | How the Web Works |
+| Day 8 | HTTP Fundamentals |
+| Day 9 | Data Formats |
+| Day 10 | APIs & REST Design |
 
 ---
 
 ## 🔗 How This Module Connects
 
-Explain how this week connects to:
+### Connection to Week 1
 
-- The previous module
-- The next module
-- Real-world software development
+Week 1 introduced foundational engineering practices:
 
-Example prompts:
+- cybersecurity awareness
+- software development lifecycle
+- Agile collaboration
+- user stories and project tracking
+- Git basics
 
-- Why does this module come first?
-- What would break if this foundation was weak?
-- How does this prepare engineers for production systems?
+Week 2 expands these concepts by showing **how engineers collaborate using Git and how software systems communicate through the web.**
+
+---
+
+### Connection to Upcoming Modules
+
+Future modules build on these concepts:
+
+- Backend engineering relies on HTTP and APIs
+- Cloud systems depend on networking and web protocols
+- System design requires understanding how services communicate
+
+Understanding web communication is essential before exploring distributed systems and cloud architectures.
 
 ---
 
 ## 🧠 Engineering Perspective
 
-Highlight:
+Most production software systems today are **networked systems**.
 
-- Why experienced engineers care about this module
-- Common industry pitfalls
-- Where beginners struggle
-- What separates junior vs mature understanding in this area
+This means engineers must understand:
+
+- how code collaboration happens in shared repositories
+- how web requests travel from client to server
+- how APIs connect services together
+- how data is transmitted between systems
+
+These concepts form the foundation for modern software engineering.
 
 ---
 
@@ -79,32 +91,44 @@ Highlight:
 
 Recommended progression:
 
-1. Complete daily modules in order.
-2. Take notes in your own words.
-3. Apply concepts in small examples.
-4. Reflect on production implications.
+1. Practice Git branching and pull request workflows.
+2. Understand how browsers communicate with servers.
+3. Learn the structure of HTTP requests and responses.
+4. Experiment with API requests using tools like Postman or curl.
+5. Inspect real network requests in browser developer tools.
 
-Do not rush through topics without understanding underlying principles.
+Practical experimentation greatly improves understanding of these concepts.
 
 ---
 
-## ✅ Completion Criteria
+## ✅ Learning Verification
 
-Before moving to the next module:
+Before moving to the next module, learners should be able to:
 
-- [ ] All daily modules completed
-- [ ] Assignments attempted
-- [ ] Reflection questions answered
-- [ ] Core concepts understood
-- [ ] Ability to explain major topics clearly
+- Create and manage Git branches
+- Understand pull request and code review workflows
+- Explain how browsers communicate with servers
+- Interpret HTTP requests and responses
+- Describe how APIs expose services
+- Understand JSON and other common data formats
 
 ---
 
 ## 🚀 Optional Deep Dive
 
-For learners who want to go further:
+Learners interested in deeper exploration may study:
 
-- Suggested advanced readings
-- Recommended books
-- Related system design topics
-- Industry case studies
+- GitFlow vs trunk-based development
+- browser networking tools and request inspection
+- how CDNs improve web performance
+- public API design practices used by large platforms
+
+These topics become increasingly important in large-scale engineering systems.
+
+---
+
+## 🧭 Navigation
+
+Start the module here:
+
+➡ **[Day 6](./day-06/README.md)**

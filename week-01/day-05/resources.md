@@ -82,7 +82,7 @@ Focus on videos that demonstrate Git through **terminal commands**, not GUI tool
 ## 🧭 Navigation
 
 ← **Back to Lesson**  
-[Day 5 – Git Basics](./README.md)
+[Day 5](./README.md)
 
 ➡ **Next: Assignments**  
 [Assignments](./assignments.md)

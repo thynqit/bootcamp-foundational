@@ -208,7 +208,7 @@ Consider the following:
 ## 🧭 Navigation
 
 ← **Previous Lesson**  
-[Day 1 – Cybersecurity Fundamentals](../day-01/README.md)
+[Day 1](../day-01/README.md)
 
 ➡ **Next: Resources**  
 [Resources](./resources.md)

@@ -141,4 +141,4 @@ Research a real-world product company.
 [Resources](./resources.md)
 
 ➡ **Next Lesson**  
-[Day 4 – User Stories & Project Tracking](../day-04/README.md)
+[Day 4](../day-04/README.md)

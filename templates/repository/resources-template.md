@@ -58,7 +58,7 @@ Include only well-written technical content.
 ## 🧭 Navigation
 
 ← **Back to Lesson**  
-[Day X – Topic Name](./README.md)
+[Day X](./README.md)
 
 ➡ **Next: Assignments**  
 [Assignments](./assignments.md)

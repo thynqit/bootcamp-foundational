@@ -82,7 +82,7 @@ Watch at least one conceptual explanation and one framework breakdown.
 ## 🧭 Navigation
 
 ← **Back to Lesson**  
-[Day 3 – Agile & Scrum Framework](./README.md)
+[Day 3](./README.md)
 
 ➡ **Next: Assignments**  
 [Assignments](./assignments.md)

@@ -258,7 +258,7 @@ Strong Git discipline is a core engineering skill.
 ## 🧭 Navigation
 
 ← **Previous Lesson**  
-[Day 4 – User Stories & Project Tracking](../day-04/README.md)
+[Day 4](../day-04/README.md)
 
 ➡ **Next: Resources**  
 [Resources](./resources.md)

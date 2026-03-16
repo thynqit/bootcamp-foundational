@@ -144,4 +144,4 @@ Identify:
 [Resources](./resources.md)
 
 ➡ **Next Lesson**  
-[Day 3 – Agile & Scrum](../day-03/README.md)
+[Day 3](../day-03/README.md)
