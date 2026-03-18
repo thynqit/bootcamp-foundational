@@ -1,6 +1,6 @@
 # Assignments – Day 11: API Design Principles
 
-> Apply professional API design practices by improving poorly designed APIs and implementing enterprise-grade standards.
+> Part of the Thynqit Labs – Foundational Engineering Bootcamp
 
 ---
 
@@ -16,7 +16,7 @@ Your task is to:
 - standardize responses
 - improve scalability and maintainability
 
-This assignment simulates real backend engineering work.
+This assignment simulates real backend engineering work. Apply professional API design practices by improving poorly designed APIs and implementing enterprise-grade standards.
 
 ---
 
