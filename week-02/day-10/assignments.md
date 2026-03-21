@@ -89,7 +89,7 @@ Example product JSON:
 
 # ✍️ Part 4 – Write API Specification Using Markdown
 
-Use the **Markdown API specification template** provided in this repository.
+Use the [**Markdown API specification template**](../../templates/api-spec/api-spec-markdown.md) provided in this repository.
 
 Template file:
 
@@ -133,15 +133,13 @@ to
 
 # 🧾 Part 5 – Write Swagger / OpenAPI Specification (YAML)
 
-Use the **Swagger/OpenAPI template** provided.
+Use the [**Swagger/OpenAPI template**](../../templates/api-spec/api-spec-swagger.yaml) provided.
 
 Template file:
 
 ```
 templates/api-spec/api-spec-swagger.yaml
 ```
-
-Reference template: :contentReference[oaicite:5]{index=5}
 
 This specification already includes:
 
@@ -175,15 +173,13 @@ Also update the schema definitions to represent the **Product model**.
 
 # 📄 Part 6 – Write Enterprise API Document (PDF Format)
 
-Use the **API specification document template** provided.
+Use the [**API specification document template**](../../templates/api-spec/api-spec-document.pdf) provided.
 
 Template file:
 
 ```
 templates/api-spec/api-spec-document.pdf
 ```
-
-Reference template: :contentReference[oaicite:6]{index=6}
 
 This document demonstrates how APIs are documented in enterprise environments and includes:
 
