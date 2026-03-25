@@ -224,7 +224,7 @@ Each day contains:
 
 | Day | Topic |
 |----|------|
-| Day 16 | [Cloud Fundamentals](./week-04/day-16s) |
+| Day 16 | [Cloud Fundamentals](./week-04/day-16) |
 | Day 17 | [DevOps & CI/CD](./week-04/day-17) |
 | Day 18 | [Logging & Monitoring](./week-04/day-18) |
 | Day 19 | [Networking Basics](./week-04/day-19) |

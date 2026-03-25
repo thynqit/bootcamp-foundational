@@ -315,4 +315,4 @@ Take it further:
 [Resources](./resources.md)
 
 ➡ Next Module: Week 4  
-[Week 4](../week-04/README.md)
+[Week 4](../../week-04/README.md)
