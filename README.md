@@ -1,3 +1,5 @@
+![Banner](./assets/foundational-bootcamp.jpg)
+
 # Thynqit Labs – Foundational Engineering Bootcamp
 
 ![Curriculum](https://img.shields.io/badge/Curriculum-Engineering-blue)
