@@ -21,6 +21,43 @@ It is suitable for:
 
 ---
 
+## 🚨 Why This Exists
+
+Most engineering teams struggle not because of lack of talent, but because of inconsistent fundamentals.
+
+Different developers follow different practices.
+Different projects follow different standards.
+
+This leads to:
+- Rework
+- Misalignment
+- Slower delivery
+
+This bootcamp is designed to solve that by building a shared engineering foundation.
+
+---
+
+## ❌ Who This is NOT for
+
+- Developers looking for quick tutorials
+- People expecting copy-paste solutions
+- Anyone not willing to think deeply about systems
+
+---
+
+## 🧑‍💼 For Engineering Teams & Companies
+
+This curriculum can also be used to:
+
+- Standardise engineering practices across teams
+- Onboard new developers faster
+- Improve code quality and delivery consistency
+- Build a shared engineering language
+
+If you’re building or scaling a team, this can serve as a foundational system.
+
+---
+
 # 📑 Table of Contents
 
 - Overview
@@ -315,6 +352,16 @@ You can help by:
 - Fixing documentation issues
 
 Please open a Pull Request.
+
+---
+
+## ⭐ Support
+
+If you find this useful:
+
+- Star the repository
+- Share it with your team
+- Contribute improvements
 
 ---
 

@@ -1,0 +1,59 @@
+# ------------------------------
+# OS Files
+# ------------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ------------------------------
+# Editor / IDE Files
+# ------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+
+# ------------------------------
+# Node.js (if contributors use tooling)
+# ------------------------------
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+
+# ------------------------------
+# Python (optional safety)
+# ------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# ------------------------------
+# Misc
+# ------------------------------
+*.tmp
+*.temp
+.cache/
+coverage/
+
+# ------------------------------
+# Mac / Linux Hidden Files
+# ------------------------------
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# ------------------------------
+# Generated files (if any later)
+# ------------------------------
+*.out
+*.exe
+*.class
