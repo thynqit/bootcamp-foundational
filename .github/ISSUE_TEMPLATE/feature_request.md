@@ -1,20 +1,48 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+name: Feature Request
+about: Suggest improvements or new content for the bootcamp
+title: "[FEATURE] "
+labels: enhancement
+assignees: ""
+---
+
+## 🚀 Feature Description
+
+Describe the feature or improvement you'd like to see.
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 🎯 Problem Statement
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+What problem does this solve?
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+---
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 💡 Proposed Solution
+
+How do you think this should be implemented?
+
+---
+
+## 📚 Relevant Area
+
+Where does this apply?
+
+- Week:
+- Day:
+- Topic:
+
+---
+
+## 🔍 Additional Context
+
+Add examples, references, or use cases if any.
+
+---
+
+## 🙌 Contribution (Optional)
+
+Would you like to contribute this feature?
+
+- [ ] Yes
+- [ ] No
