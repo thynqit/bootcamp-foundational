@@ -1,110 +1,187 @@
-# Week X – [Module Name]
+# Week 5 – Product Thinking & Engineering Documentation
 
 > Part of the Thynqit Labs – Foundational Engineering Bootcamp
 
 ---
 
-## 📌 Module Overview
+## 📘 Overview
 
-This module focuses on [high-level theme of the week].
+Before building scalable systems, engineers must first understand:
 
-In this week, learners will explore:
+- what needs to be built
+- why it needs to be built
+- who it is being built for
+- how different parts of the system will communicate
 
-- 
-- 
-- 
-- 
+Most software failures occur not because of poor coding, but because of:
 
-This module builds the foundation required to understand:
+- unclear requirements
+- incomplete specifications
+- poor scope definition
+- weak communication between business and engineering teams
 
-- 
-- 
-- 
+This module focuses on transforming a business idea into structured engineering artifacts through:
+
+- business understanding
+- product definition
+- feature specification
+- user stories
+- API specification
+- database schema design
+
+Throughout this module, learners will work on a simplified **e-commerce platform inspired by Target.com**.
+
+By the end of this week, learners will produce the foundational documentation required before system architecture and development begin.
 
 ---
 
-## 🎯 Learning Outcomes
+## 🎯 Learning Objectives
 
-By the end of this week, learners should be able to:
+By the end of this module, learners should be able to:
 
-- 
-- 
-- 
-- 
-
-These outcomes focus on practical engineering readiness rather than theoretical memorization.
+- Understand business requirements
+- Translate business goals into product requirements
+- Break down large systems into features
+- Define user stories and scope boundaries
+- Understand API-first thinking
+- Design API specifications
+- Design relational and NoSQL database schemas
+- Create engineering-ready documentation artifacts
 
 ---
 
-## 🗂 Topics Covered
+## 📚 Topics Covered
 
 | Day | Topic |
-|-----|-------|
-| Day X | |
-| Day X | |
-| Day X | |
-| Day X | |
-| Day X | |
+|-----|------|
+| Day 21 | Business Requirement Document (BRD) |
+| Day 22 | Product Requirement Document (PRD) |
+| Day 23 | Feature Specification |
+| Day 24 | User Stories & Scope Breakdown |
+| Day 25 | API Specification & DB Schema |
 
 ---
 
 ## 🔗 How This Module Connects
 
-Explain how this week connects to:
+### Connection to Previous Weeks
 
-- The previous module
-- The next module
-- Real-world software development
+Previous modules introduced:
 
-Example prompts:
+- APIs and REST fundamentals
+- database design
+- cloud infrastructure
+- security and authentication
+- networking and Linux CLI
 
-- Why does this module come first?
-- What would break if this foundation was weak?
-- How does this prepare engineers for production systems?
+Week 5 brings these concepts together from a **product and engineering planning perspective**.
+
+Learners will now think about systems before implementation begins.
+
+---
+
+### Connection to Week 6
+
+The outputs from this module become direct inputs to system design and architecture decisions.
+
+Week 6 will use:
+
+- BRDs
+- PRDs
+- feature specifications
+- user stories
+- API contracts
+- database schemas
+
+to design:
+
+- monolith architectures
+- microservices systems
+- scalable distributed systems
 
 ---
 
 ## 🧠 Engineering Perspective
 
-Highlight:
+Senior engineers do not immediately start coding.
 
-- Why experienced engineers care about this module
-- Common industry pitfalls
-- Where beginners struggle
-- What separates junior vs mature understanding in this area
+They first define:
+
+- business goals
+- constraints
+- user expectations
+- communication contracts
+- data models
+
+Well-written engineering documentation helps teams:
+
+- reduce ambiguity
+- improve collaboration
+- avoid rework
+- scale engineering practices
+
+This is why documentation is a critical engineering skill.
+
+---
+
+## 🧩 Case Study – Target.com Inspired Platform
+
+Throughout Week 5 and Week 6, learners will progressively design a simplified e-commerce platform inspired by Target.com.
+
+Learners will define:
+
+- business goals
+- product scope
+- features
+- user flows
+- APIs
+- database schemas
+- architecture patterns
+- scalability strategies
+
+This creates a continuous end-to-end engineering learning experience.
 
 ---
 
 ## 📚 Suggested Approach
 
-Recommended progression:
-
-1. Complete daily modules in order.
-2. Take notes in your own words.
-3. Apply concepts in small examples.
-4. Reflect on production implications.
-
-Do not rush through topics without understanding underlying principles.
+1. Start with business understanding.
+2. Translate business ideas into structured product requirements.
+3. Break features into smaller engineering units.
+4. Define APIs before implementation.
+5. Think about data relationships and storage models.
+6. Maintain consistency across all documentation artifacts.
 
 ---
 
-## ✅ Completion Criteria
+## ✅ Learning Verification
 
-Before moving to the next module:
+By the end of this module, learners should be able to:
 
-- [ ] All daily modules completed
-- [ ] Assignments attempted
-- [ ] Reflection questions answered
-- [ ] Core concepts understood
-- [ ] Ability to explain major topics clearly
+- Write a BRD and PRD
+- Define clear feature specifications
+- Break systems into user stories
+- Define scope boundaries
+- Design API specifications
+- Create relational and NoSQL database schemas
+- Produce engineering-ready documentation
 
 ---
 
 ## 🚀 Optional Deep Dive
 
-For learners who want to go further:
+Learners interested in deeper exploration may study:
 
-- Suggested advanced readings
-- Recommended books
-- Related system design topics
-- Industry case studies
+- API-first development practices
+- domain-driven design (DDD)
+- event-driven system modeling
+- enterprise documentation standards
+- real-world product requirement workflows
+
+---
+
+## 🧭 Navigation
+
+Start the module here:
+
+➡ **[Day 21](./day-21/README.md)**

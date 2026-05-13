@@ -1,12 +1,18 @@
-![Banner](./assets/foundational-bootcamp.jpg)
+<p align="center">
+  <img src="https://dummyimage.com/1200x300/0f172a/ffffff&text=Thynqit+Foundational+Engineering+Bootcamp" alt="Thynqit Banner"/>
+</p>
 
-# Thynqit Labs – Foundational Engineering Bootcamp
+<h1 align="center">🚀 Thynqit Labs – Foundational Engineering Bootcamp</h1>
 
-![Curriculum](https://img.shields.io/badge/Curriculum-Engineering-blue)
-![Level](https://img.shields.io/badge/Level-Foundational-green)
-![License](https://img.shields.io/badge/License-MIT-orange)
-![Maintained](https://img.shields.io/badge/Maintained-Active-success)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/Curriculum-Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Level-Foundational-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Maintained-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge"/>
+</p>
+
+---
 
 A structured, comprehensive foundational engineering curriculum curated by **Thynqit Labs**. It is designed to help software engineers understand modern software development, cloud systems, security practices, and scalable architecture.
 
@@ -90,8 +96,8 @@ Engineers must understand:
 - APIs and backend systems
 - Cloud infrastructure
 - Linux command-line environments
-- System design
 - Architecture documentation
+- System design
 
 This curriculum introduces these topics progressively to build **real-world engineering intuition**.
 
@@ -101,9 +107,9 @@ This curriculum introduces these topics progressively to build **real-world engi
 
 Start your learning journey here:
 
-- **Begin Learning → [Week 1 – Security & Software Delivery](./week-01)**
-- **Explore System Design → [Week 5 – System Design](./week-05)**
-- **Architecture Documentation → [Week 6 – Engineering Documentation](./week-06)**
+- **Begin Learning → [Week 1](./week-01)**
+- **Architecture Documentation → [Week 5](./week-05)**
+- **Explore System Design → [Week 6](./week-06)**
 
 ---
 
@@ -139,8 +145,8 @@ flowchart TD
     H[Backend Engineering]
     I[Cloud Infrastructure]
     J[Linux CLI]
-    K[System Design]
-    L[Engineering Documentation]
+    K[Engineering Documentation]
+    L[System Design]
 
     A --> B
     B --> C
@@ -234,29 +240,29 @@ Each day contains:
 
 ---
 
-## Week 5 – System Design
+## Week 5 – # Product Thinking & Engineering Documentation
 [Open Week 5](./week-05)
 
 | Day | Topic |
 |----|------|
-| Day 21 | [System Design Basics](./week-05/day-21) |
-| Day 22 | [Monolith Architecture](./week-05/day-22) |
-| Day 23 | [Microservices Architecture](./week-05/day-23) |
-| Day 24 | [Scalability Concepts](./week-05/day-24) |
-| Day 25 | [Performance & Reliability](./week-05/day-25) |
+| Day 21 | [Business Requirement Document](./week-05/day-21) |
+| Day 22 | [Product Requirement Document](./week-05/day-22) |
+| Day 23 | [Feature Specification](./week-05/day-23) |
+| Day 24 | [API Specification & DB Schema](./week-05/day-24) |
+| Day 25 | [Architecture Documentation](./week-05/day-25) |
 
 ---
 
-## Week 6 – Engineering Documentation
+## Week 6 – # System Design & Architecture
 [Open Week 6](./week-06)
 
 | Day | Topic |
 |----|------|
-| Day 26 | [Business Requirement Document](./week-06/day-26) |
-| Day 27 | [Product Requirement Document](./week-06/day-27) |
-| Day 28 | [Feature Specification](./week-06/day-28) |
-| Day 29 | [API Specification & DB Schema](./week-06/day-29) |
-| Day 30 | [Architecture Documentation](./week-06/day-30) |
+| Day 26 | [System Design Basics](./week-06/day-26) |
+| Day 27 | [Monolith Architecture](./week-06/day-27) |
+| Day 28 | [Microservices Architecture](./week-06/day-28) |
+| Day 29 | [Scalability Concepts](./week-06/day-29) |
+| Day 30 | [Performance & Reliability](./week-06/day-30) |
 
 ---
 
