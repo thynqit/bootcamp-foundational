@@ -261,8 +261,8 @@ Each day contains:
 | Day 26 | [System Design Basics](./week-06/day-26) |
 | Day 27 | [Monolith Architecture](./week-06/day-27) |
 | Day 28 | [Microservices Architecture](./week-06/day-28) |
-| Day 29 | [Scalability Concepts](./week-06/day-29) |
-| Day 30 | [Performance & Reliability](./week-06/day-30) |
+| Day 29 | [Scalability & Distributed Systems](./week-06/day-29) |
+| Day 30 | [Performance, Reliability & Resilience](./week-06/day-30) |
 
 ---
 

@@ -42,8 +42,8 @@ By the end of this module, learners should be able to:
 | Day 26 | System Design Basics |
 | Day 27 | Monolith Architecture |
 | Day 28 | Microservices Architecture |
-| Day 29 | Scalability Concepts |
-| Day 30 | Performance & Reliability |
+| Day 29 | Scalability & Distributed Systems |
+| Day 30 | Performance, Reliability & Resilience |
 
 ---
 
