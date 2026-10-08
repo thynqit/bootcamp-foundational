@@ -240,7 +240,7 @@ Each day contains:
 
 ---
 
-## Week 5 – # Product Thinking & Engineering Documentation
+## Week 5 – Product Thinking & Engineering Documentation
 [Open Week 5](./week-05)
 
 | Day | Topic |
@@ -248,12 +248,12 @@ Each day contains:
 | Day 21 | [Business Requirement Document](./week-05/day-21) |
 | Day 22 | [Product Requirement Document](./week-05/day-22) |
 | Day 23 | [Feature Specification](./week-05/day-23) |
-| Day 24 | [API Specification & DB Schema](./week-05/day-24) |
-| Day 25 | [Architecture Documentation](./week-05/day-25) |
+| Day 24 | [User Stories & Scope Breakdown](./week-05/day-24) |
+| Day 25 | [API Specification & DB Schema](./week-05/day-25) |
 
 ---
 
-## Week 6 – # System Design & Architecture
+## Week 6 – System Design & Architecture
 [Open Week 6](./week-06)
 
 | Day | Topic |
