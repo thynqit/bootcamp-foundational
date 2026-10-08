@@ -63,11 +63,11 @@ This is the first module, so it establishes the baseline knowledge required for 
 
 Future modules will build on these concepts:
 
-- Week 2 Introduces how software systems communicate (web and APIs)
-- Week 3 Explores backend architecture and security practices
-- Week 4 Covers infrastructure and cloud systems
-- Week 5 Focuses on system design and scalability
-- Week 6 Introduces engineering documentation and architecture communication
+- Week 2 Introduces Git collaboration and web/API fundamentals
+- Week 3 Explores backend engineering, databases, authentication, security, and testing
+- Week 4 Covers cloud infrastructure, DevOps, monitoring, networking, and Linux CLI
+- Week 5 Focuses on product thinking and engineering documentation
+- Week 6 Focuses on system design, architecture, scalability, and reliability
 
 **Real-world impact**
 
