@@ -40,7 +40,7 @@ Covers:
 
 ### AWS – Monolithic Applications
 
-https://docs.aws.amazon.com/whitepapers/latest/replatform-dotnet-apps-with-windows-containers/what-is-a-monolithic-application.html
+https://aws.amazon.com/compare/the-difference-between-monolithic-and-microservices-architecture/
 
 Explains:
 
@@ -113,7 +113,7 @@ Very important resource explaining:
 
 ### Milan Jovanović – Modular Monolith Architecture
 
-https://www.milanjovanovic.tech/blog/modular-monolith-architecture
+https://milanjovanovic.tech/blog/modular-monolith-architecture-dotnet
 
 Explains:
 
@@ -156,7 +156,7 @@ Explains:
 
 ### Redis – What is Caching?
 
-https://redis.io/glossary/caching/
+https://redis.io/blog/intro-to-caching-at-scale-primer/
 
 Useful for understanding:
 
@@ -238,7 +238,7 @@ Useful for:
 
 ### Monolithic Architecture Explained
 
-https://www.youtube.com/watch?v=pTB30aXS77U
+https://www.youtube.com/watch?v=lRk3rMoPEtg
 
 Covers:
 
@@ -277,7 +277,7 @@ Useful for understanding:
 
 ### Scaling Web Applications
 
-https://www.youtube.com/watch?v=RUzVKC8wT6o
+https://www.youtube.com/watch?v=-W9F__D3oY4
 
 Covers:
 

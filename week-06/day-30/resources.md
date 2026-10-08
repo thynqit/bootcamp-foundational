@@ -199,7 +199,7 @@ Covers:
 
 ### Elastic – Centralized Logging
 
-https://www.elastic.co/what-is/centralized-logging
+https://www.elastic.co/docs/solutions/observability/logs
 
 Explains:
 
@@ -229,7 +229,7 @@ Useful for understanding:
 
 ### PagerDuty – Incident Response Basics
 
-https://www.pagerduty.com/resources/learn/incident-management-process/
+https://www.pagerduty.com/resources/devops/learn/what-is-incident-response/
 
 Covers:
 
@@ -259,7 +259,7 @@ One of the most valuable resources covering:
 
 ### AWS – Disaster Recovery Strategies
 
-https://aws.amazon.com/disaster-recovery/
+https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html
 
 Explains:
 
@@ -272,7 +272,7 @@ Explains:
 
 ### Microsoft – High Availability
 
-https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/high-availability
+https://learn.microsoft.com/en-us/azure/well-architected/reliability/redundancy
 
 Useful for understanding:
 
@@ -355,7 +355,7 @@ Useful for:
 
 ### Reliability Engineering Explained
 
-https://www.youtube.com/watch?v=U3nQ5z6f2Wk
+https://www.youtube.com/watch?v=eopc_ijIfLg
 
 Covers:
 
@@ -368,7 +368,7 @@ Covers:
 
 ### Circuit Breaker Pattern Explained
 
-https://www.youtube.com/watch?v=5fM5VwV3KME
+https://www.youtube.com/watch?v=3Fa0229MBY4
 
 Explains:
 
@@ -381,7 +381,7 @@ Explains:
 
 ### Distributed Tracing Explained
 
-https://www.youtube.com/watch?v=SXmq8quf_xM
+https://www.youtube.com/watch?v=LBWIN5zowUQ
 
 Useful for understanding:
 
@@ -394,7 +394,7 @@ Useful for understanding:
 
 ### Monitoring & Observability Explained
 
-https://www.youtube.com/watch?v=h4Sl21AKiDg
+https://www.youtube.com/watch?v=qVITI34ZFuk
 
 Covers:
 
@@ -407,7 +407,7 @@ Covers:
 
 ### Chaos Engineering Explained
 
-https://www.youtube.com/watch?v=4fXwM0Ny8BU
+https://www.youtube.com/watch?v=CXhd30tDqBc
 
 Explains:
 

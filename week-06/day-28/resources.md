@@ -114,7 +114,7 @@ One of the most important resources covering:
 
 ### Microsoft – API Gateway Pattern
 
-https://learn.microsoft.com/en-us/azure/architecture/patterns/gateway-routing
+https://learn.microsoft.com/en-us/azure/architecture/microservices/design/gateway
 
 Explains:
 
@@ -169,7 +169,7 @@ Explains:
 
 ### Grafana – Observability Introduction
 
-https://grafana.com/oss/
+https://grafana.com/blog/what-is-observability-best-practices-key-metrics-methodologies-and-more/
 
 Useful for understanding:
 
@@ -182,7 +182,7 @@ Useful for understanding:
 
 ### Elastic – Centralized Logging
 
-https://www.elastic.co/what-is/centralized-logging
+https://www.elastic.co/docs/solutions/observability/logs
 
 Covers:
 
@@ -212,7 +212,7 @@ Explains:
 
 ### AWS – Fault Tolerance Concepts
 
-https://aws.amazon.com/builders-library/
+https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/
 
 Useful for understanding:
 
@@ -350,7 +350,7 @@ Explains:
 
 ### Distributed Tracing Explained
 
-https://www.youtube.com/watch?v=SXmq8quf_xM
+https://www.youtube.com/watch?v=LBWIN5zowUQ
 
 Covers:
 
@@ -375,7 +375,7 @@ Useful for understanding:
 
 ### Circuit Breaker Pattern Explained
 
-https://www.youtube.com/watch?v=5fM5VwV3KME
+https://www.youtube.com/watch?v=3Fa0229MBY4
 
 Explains:
 

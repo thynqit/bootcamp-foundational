@@ -50,7 +50,7 @@ Covers:
 
 ### AWS – What is System Design?
 
-https://aws.amazon.com/what-is/system-design/
+https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
 
 Explains:
 
@@ -120,7 +120,7 @@ Useful for understanding:
 
 ### Redis – What is Caching?
 
-https://redis.io/glossary/caching/
+https://redis.io/blog/intro-to-caching-at-scale-primer/
 
 Covers:
 
@@ -137,7 +137,7 @@ Covers:
 
 ### AWS – Scaling Applications
 
-https://aws.amazon.com/what-is/application-scaling/
+https://learn.microsoft.com/en-us/azure/architecture/best-practices/auto-scaling
 
 Explains:
 
@@ -194,7 +194,7 @@ Explains:
 
 ### Postman – API Fundamentals
 
-https://www.postman.com/api-platform/api-testing/
+https://www.postman.com/what-is-an-api/
 
 Useful for understanding:
 
@@ -277,7 +277,7 @@ Covers:
 
 ### What Happens When You Open a Website?
 
-https://www.youtube.com/watch?v=7_LPdttKXPc
+https://www.youtube.com/watch?v=AlkDbnbv7dk
 
 Explains:
 

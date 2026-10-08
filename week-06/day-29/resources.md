@@ -28,7 +28,7 @@ This module focuses on understanding how modern systems scale reliably at intern
 
 ### Microsoft – Scalability Patterns
 
-https://learn.microsoft.com/en-us/azure/architecture/patterns/category/scalability
+https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/design-patterns
 
 Covers:
 
@@ -41,7 +41,7 @@ Covers:
 
 ### AWS – What is Scalability?
 
-https://aws.amazon.com/what-is/scalability/
+https://learn.microsoft.com/en-us/azure/architecture/best-practices/auto-scaling
 
 Explains:
 
@@ -54,7 +54,7 @@ Explains:
 
 ### Google Cloud – Distributed Systems Concepts
 
-https://cloud.google.com/architecture
+https://docs.cloud.google.com/architecture/deployment-archetypes
 
 Useful for understanding:
 
@@ -71,7 +71,7 @@ Useful for understanding:
 
 ### GeeksforGeeks – Scalability in System Design
 
-https://www.geeksforgeeks.org/scalability-in-system-design/
+https://www.geeksforgeeks.org/system-design/what-is-scalability/
 
 Explains:
 
@@ -98,7 +98,7 @@ Covers:
 
 ### Redis – Caching Explained
 
-https://redis.io/glossary/caching/
+https://redis.io/blog/intro-to-caching-at-scale-primer/
 
 Useful for understanding:
 
@@ -115,7 +115,7 @@ Useful for understanding:
 
 ### AWS – Database Scaling Concepts
 
-https://aws.amazon.com/blogs/database/
+https://aws.amazon.com/blogs/database/scale-your-relational-database-for-saas-part-1-common-scaling-patterns/
 
 Covers:
 
@@ -142,7 +142,7 @@ Explains:
 
 ### CockroachDB – Replication Explained
 
-https://www.cockroachlabs.com/glossary/distributed-db/replication/
+https://docs.cockroachlabs.com/docs/stable/architecture/replication-layer
 
 Useful for understanding:
 
@@ -172,7 +172,7 @@ Explains:
 
 ### Martin Fowler – Eventual Consistency
 
-https://martinfowler.com/articles/patterns-of-distributed-systems/eventual-consistency.html
+https://martinfowler.com/articles/microservice-trade-offs.html
 
 Covers:
 
@@ -185,7 +185,7 @@ Covers:
 
 ### Microsoft – CAP Theorem
 
-https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs
+https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
 
 Useful for understanding:
 

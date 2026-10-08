@@ -120,7 +120,7 @@ Useful for understanding:
 
 ### Mountain Goat Software – INVEST in User Stories
 
-https://www.mountaingoatsoftware.com/blog/invest-in-good-stories-and-smart-tasks
+https://www.mountaingoatsoftware.com/agile/user-stories/good-user-stories
 
 Covers:
 
@@ -133,7 +133,7 @@ Covers:
 
 ### Mind the Product – Prioritization Concepts
 
-https://www.mindtheproduct.com/
+https://www.mindtheproduct.com/prioritisation-for-product-managers-are-we-doing-it-right/
 
 Useful for understanding:
 
@@ -245,7 +245,7 @@ Covers:
 
 ### INVEST Principles Explained
 
-https://www.youtube.com/watch?v=YdGnkf0bqfw
+https://www.youtube.com/watch?v=tsACcJJmi4Q
 
 Explains:
 

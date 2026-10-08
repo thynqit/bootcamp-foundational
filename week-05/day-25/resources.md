@@ -64,7 +64,7 @@ Explains:
 
 ### Postman – API Fundamentals
 
-https://www.postman.com/api-platform/api-testing/
+https://www.postman.com/what-is-an-api/
 
 Useful for understanding:
 
@@ -124,7 +124,7 @@ Useful for understanding:
 
 ### OWASP – API Security Top 10
 
-https://owasp.org/www-project-api-security/
+https://api-security.owasp.org/editions/2023/en/0x11-t10/
 
 Covers:
 
@@ -154,7 +154,7 @@ Explains:
 
 ### Microsoft – Data Modeling Overview
 
-https://learn.microsoft.com/en-us/power-bi/guidance/star-schema
+https://learn.microsoft.com/en-us/training/modules/explore-relational-data-offerings/
 
 Covers:
 
@@ -167,7 +167,7 @@ Covers:
 
 ### MySQL – Database Design Basics
 
-https://dev.mysql.com/doc/
+https://docs.oracle.com/cd/E17952_01/mysql-8.4-en/create-table.html
 
 Useful for understanding:
 
@@ -197,7 +197,7 @@ Explains:
 
 ### GeeksforGeeks – DBMS Normalization
 
-https://www.geeksforgeeks.org/normalization-in-dbms/
+https://www.geeksforgeeks.org/dbms/introduction-of-database-normalization/
 
 Explains:
 
@@ -210,7 +210,7 @@ Explains:
 
 ### AWS – SQL vs NoSQL Databases
 
-https://aws.amazon.com/compare/the-difference-between-sql-and-nosql/
+https://aws.amazon.com/compare/the-difference-between-relational-and-non-relational-databases/
 
 Covers:
 
@@ -317,7 +317,7 @@ Useful for:
 
 ## 🔹 MongoDB Playground
 
-https://www.mongodb.com/products/tools/compass
+https://www.mongodb.com/docs/mongodb-vscode/playgrounds/
 
 Useful for:
 
@@ -369,7 +369,7 @@ Explains:
 
 ### API Security Fundamentals
 
-https://www.youtube.com/watch?v=6rH8bJ6V3lY
+https://www.youtube.com/watch?v=taior9PNqQs
 
 Covers:
 

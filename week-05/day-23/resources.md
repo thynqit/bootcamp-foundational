@@ -31,7 +31,7 @@ Engineering Planning
 
 ### Atlassian – Writing Effective Requirements
 
-https://www.atlassian.com/agile/project-management/requirements
+https://www.atlassian.com/agile/product-management/requirements
 
 Covers:
 
@@ -44,7 +44,7 @@ Covers:
 
 ### Aha! – Feature Requirements Guide
 
-https://www.aha.io/roadmapping/guide/requirements-management/what-are-features
+https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features
 
 Explains:
 
@@ -87,7 +87,7 @@ Explains:
 
 ### UXPin – User Flows Explained
 
-https://www.uxpin.com/studio/blog/what-are-user-flows/
+https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/
 
 Covers:
 
@@ -117,7 +117,7 @@ Useful for understanding:
 
 ### Mind the Product – Feature Prioritization
 
-https://www.mindtheproduct.com/
+https://www.mindtheproduct.com/product-people-on-prioritisation/
 
 Useful for understanding:
 
@@ -216,7 +216,7 @@ Explains:
 
 ### User Flow Design Explained
 
-https://www.youtube.com/watch?v=52Buq0QXy0Y
+https://www.youtube.com/watch?v=3vH-aStshLc
 
 Covers:
 
@@ -229,7 +229,7 @@ Covers:
 
 ### Functional vs Non-Functional Requirements
 
-https://www.youtube.com/watch?v=Q3m8KJf7d4g
+https://www.youtube.com/watch?v=zCX-N1H8Vps
 
 Explains:
 
