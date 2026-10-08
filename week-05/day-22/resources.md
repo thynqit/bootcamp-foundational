@@ -44,7 +44,7 @@ Covers:
 
 ### What is a Product Requirements Document?
 
-https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-product-requirements-document
+https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-product-requirements-document-template
 
 Explains:
 
@@ -72,7 +72,7 @@ Useful for understanding:
 
 ### Product School – How to Write a PRD
 
-https://productschool.com/blog/product-management/product-requirements-document-template/
+https://productschool.com/blog/product-strategy/product-template-requirements-document-prd
 
 Explains:
 
@@ -85,7 +85,7 @@ Explains:
 
 ### UXPin – User Flows and User Journeys
 
-https://www.uxpin.com/studio/blog/user-flow-vs-user-journey/
+https://www.uxpin.com/studio/blog/website-user-flow/
 
 Covers:
 
@@ -115,7 +115,7 @@ Explains:
 
 ### Mind the Product – Product Thinking
 
-https://www.mindtheproduct.com/
+https://www.mindtheproduct.com/demystifying-product-thinking-a-guide-to-user-centric-innovation/
 
 Useful for understanding:
 
@@ -200,7 +200,7 @@ Useful for:
 
 ### What is a Product Requirement Document (PRD)?
 
-https://www.youtube.com/watch?v=7mB4jGf4R3A
+https://www.youtube.com/watch?v=twtglirML3M
 
 Explains:
 
@@ -213,7 +213,7 @@ Explains:
 
 ### User Journey Mapping Explained
 
-https://www.youtube.com/watch?v=mLF1FgyRLkk
+https://www.youtube.com/watch?v=2W13ext26kQ
 
 Covers:
 
@@ -225,7 +225,7 @@ Covers:
 
 ### Functional vs Non-Functional Requirements
 
-https://www.youtube.com/watch?v=Q3m8KJf7d4g
+https://www.youtube.com/watch?v=zCX-N1H8Vps
 
 Explains:
 
