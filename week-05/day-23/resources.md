@@ -203,7 +203,7 @@ Useful for:
 
 ### What is a Feature Specification?
 
-https://www.youtube.com/watch?v=4M0M0M5R95k
+https://www.youtube.com/watch?v=MYeXCdHyDhM
 
 Explains:
 
